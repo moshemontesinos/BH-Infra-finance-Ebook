@@ -1,1 +1,20 @@
 # GCFP Financial Toolkit for Infra valuation
+
+## Basic Valuation concepts
+### Net Present Value
+### WACC, IRR
+### Capital structure: Equity, Debt mix
+### Modigliani & Miller (MM)
+### Fair Value
+### Gov. cost of borrowing
+### APV
+### Infra Ratings: Moodys, S&P
+
+## Advanced financial methods
+### Option valuation
+### Arrow-Debreu: basic concepts
+### Project Finance
+### Securitization
+### SPV & Infrastructure Trusts
+### Infra project backed-certificates
+### Value for Money (VfM) [Optional]
