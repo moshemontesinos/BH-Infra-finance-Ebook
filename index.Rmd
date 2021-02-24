@@ -40,4 +40,3 @@ Each section will include links to GCFP videos with MIT experts and leaders in t
 We will aso include interactive 'Hands-on' notebooks (Google Colab) where you will be able to play around with numbers and see how outputs and conclusions change when you modify your assumptions.
 
 We look forward to seeing you apply GCFP Infrastructure Finance toolkit in you valuation exercises, and invite you to explore the rest of the great online courses and toolkits offered by the Golub Center.
-

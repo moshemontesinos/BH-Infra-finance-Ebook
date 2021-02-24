@@ -1,5 +1,6 @@
 introduction
-ch1.-infrastructure-basic-concepts
-ch2.-infra-as-an-asset-class
-ch3.-gcfp-financial-toolkit-for-infra-valuation
-ch4.-selected-sectors-and-resources
+infrastructure-basic-concepts
+infra-as-an-asset-class
+gcfp-financial-toolkit-for-infra-valuation
+selected-sectors
+additional-resources
