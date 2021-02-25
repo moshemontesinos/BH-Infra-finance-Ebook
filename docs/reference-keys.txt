@@ -1,4 +1,6 @@
 introduction
+goals
+book-structure
 infrastructure-basic-concepts
 infra-as-an-asset-class
 gcfp-financial-toolkit-for-infra-valuation
@@ -21,3 +23,5 @@ infra-project-backed-certificates
 value-for-money-vfm-optional
 selected-sectors
 additional-resources
+glossary-common-infra-terms
+bibliography

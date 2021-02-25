@@ -15,7 +15,8 @@ With traditional sources of public sector funding dwindling, governments more th
 
 But which of the many candidate projects should be undertaken? What is the right distribution of risks in a contract? How will this affect government final costs? The ability to answer these questions, depends on the evaluation of these projects based on robust financial principles that measure correctly the cost of risks and flows involved. This will help decision-makers avoid common miscalculations deriving, for instance, from government accounting conventions or valuation approaches that often misrepresent the financial costs of projects and their associated contractual claims.
 
-GCFP Infrastructure Finance initiative  seeks to provide the financial techniques to help leaders in the public and private sectors to:
+## Goals
+**GCFP Infrastructure Finance initiative**  seeks to provide the financial techniques to help leaders in the public and private sectors to:
 1. Make informed decisions based on known financial principles when evaluating your public infrastructure deals, 
 2. 	Effectively incorporate the right price of risk in your valuations through adequate risk adjustments, and 
 3. 	Learn how to utilize advanced financial methods to include all financial features and claims that are usually present in infrastructure deals (e.g. Subsidies, Externalities, etc.)
@@ -27,16 +28,17 @@ GCFP Financial toolkit is designed to be a strategic tool to assist you in many 
 •	They can help you understand the value proposition of your private partners. 
 •	And they can always support you to improve your bargaining position when you base your analysis on financial principles, reaching negotiation agreements where distribution of risks, costs and benefits are equitable and fairer for all stakeholders in an Infrastructure deal.
 
-In Chapter 1, we will present basic concepts in the infrastructure industry: main sectors,common delivery models (e.g. PPP, BOT, etc.), legal and contractual features, and an overview of the Infrastructure outlook in US. 
+## Book structure
+In **Chapter 1**, we will present basic concepts in the infrastructure industry: main sectors,common delivery models (e.g. PPP, BOT, etc.), legal and contractual features, and an overview of the Infrastructure outlook in US. 
 
-In Chapter 2, we will explore Infrastructure as an Asset class, analyzing the type of investors, risk-return profiles in Infrastructure investment, and some common Benchmarks. 
+In **Chapter 2**, we will explore Infrastructure as an Asset class, analyzing the type of investors, risk-return profiles in Infrastructure investment, and some common Benchmarks. 
 
-Chapter 3 incorporates the core of this book. There we will review in detail the core financial methods and concepts you need to run project valuations that correctly incorporate the cost of  risk and time value in your calculations. Once we present the fundamentals, in section 3.2 we will jump to more advance financial tool to help you in your analysis such as option valuation, Arrow-Debreu, Basic principles of Securitization, How you build and Infrastructure Trust and Investment Projects backed certificates. We will put all pieces together with two examples, on e of which will present the look-and-feel of what a Project Finance deal looks in the industry.
+In **Chapter 3**, we incorporate the core of this book. There we will review in detail the core financial methods and concepts you need to run project valuations that correctly incorporate the cost of  risk and time value in your calculations. Once we present the fundamentals, in *Section 3.2* we will jump to more advance financial tool to help you in your analysis such as *option valuation*, *Arrow-Debreu*, basic principles of *Securitization*, how you build an *Infrastructure Trust* and *Project-backed certificates*. We will put all pieces together with two examples, on e of which will present the look-and-feel of what a Project Finance deal looks in the industry.
 
-Finally, in Chapter 4, we will provide detailed resources and information for selected sectors, including a list of the best resources (GCFP Infra Inventory) with data and websites from most renowned institutions in the industry.
+Finally, in **Chapter 4**, we will provide detailed resources and information for selected sectors, including a list of the best resources (GCFP Infra Inventory) with data and websites from most renowned institutions in the industry.
 
-Each section will include links to GCFP videos with MIT experts and leaders in the Infrastructure industry. In this way, you will complement each chapter with the expertise from academic leaders designing the cutting-edge tools used in the industry today, and with the experience of people implementing this tools in the field. 
+Each section will include links to **GCFP videos** with MIT experts and leaders in the Infrastructure industry. In this way, you will complement each chapter with the expertise from academic leaders designing the cutting-edge tools used in the industry today, and with the experience of people implementing this tools in the field. 
 
-We will aso include interactive 'Hands-on' notebooks (Google Colab) where you will be able to play around with numbers and see how outputs and conclusions change when you modify your assumptions.
+We will aso include **Interactive 'Hands-on' Notebooks** (*Google Colab*) where you will be able to play around with numbers and see how outputs and conclusions change when you modify your assumptions.
 
 We look forward to seeing you apply GCFP Infrastructure Finance toolkit in you valuation exercises, and invite you to explore the rest of the great online courses and toolkits offered by the Golub Center.
